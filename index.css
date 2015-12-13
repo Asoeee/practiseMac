@@ -1,8 +1,9 @@
+html{width:1000px;}
 .header{width: 960px;
-	padding: 0 auto;
+	margin: 0 auto;
 	font-size: 50px;
 	color: red;
 	line-height: 100px;
 	background: blue;
-
 }
+.banner{margin: 0 auto;}
