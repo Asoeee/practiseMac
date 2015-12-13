@@ -1,4 +1,7 @@
 .header{width: 960px;
 	padding: 0 auto;
-	font-size: 32px;
+	font: 50px Arial 100px;
+	color: red;
+	background: blue;
+
 }
