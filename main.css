@@ -1,4 +1,8 @@
-html{width:1000px;}
+*{margin:0;padding:0;}
+a{text-decoration: none;}
+img{border: none;}
+li{list-style: none;}
+body{width: 1000px;}
 .header{width: 960px;
 	margin: 0 auto;
 	font-size: 50px;
